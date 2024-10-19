@@ -36,6 +36,9 @@ include ("../database.php");
          
             <li><a href="">Home</a></li>
             <li><a href="login.php">log in</a></li>
+            <?php
+
+            ?>
             <li><a href="signup.php">Sign up</a></li>
         </ul>
     </nav>
